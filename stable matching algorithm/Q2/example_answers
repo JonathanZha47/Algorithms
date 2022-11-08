@@ -1,0 +1,3 @@
+Q2
+10, 100, 500     stable (should print 1)
+1000, 3000       unstable (should print 0)
